@@ -4088,11 +4088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Equipo\\Desktop\\Nueva carpeta (2)\\proyectonube\\bibliotecaDataAccess\\bibliotecaDataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Equipo\\Desktop\\a\\proyectonube\\bibliotecaDataAccess\\bibliotecaDataAccess.csproj",
       "projectName": "bibliotecaDataAccess",
-      "projectPath": "C:\\Users\\Equipo\\Desktop\\Nueva carpeta (2)\\proyectonube\\bibliotecaDataAccess\\bibliotecaDataAccess.csproj",
+      "projectPath": "C:\\Users\\Equipo\\Desktop\\a\\proyectonube\\bibliotecaDataAccess\\bibliotecaDataAccess.csproj",
       "packagesPath": "C:\\Users\\Equipo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Equipo\\Desktop\\Nueva carpeta (2)\\proyectonube\\bibliotecaDataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Equipo\\Desktop\\a\\proyectonube\\bibliotecaDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4109,8 +4109,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Equipo\\Desktop\\Nueva carpeta (2)\\proyectonube\\bibliotecaModels\\bibliotecaModels.csproj": {
-              "projectPath": "C:\\Users\\Equipo\\Desktop\\Nueva carpeta (2)\\proyectonube\\bibliotecaModels\\bibliotecaModels.csproj"
+            "C:\\Users\\Equipo\\Desktop\\a\\proyectonube\\bibliotecaModels\\bibliotecaModels.csproj": {
+              "projectPath": "C:\\Users\\Equipo\\Desktop\\a\\proyectonube\\bibliotecaModels\\bibliotecaModels.csproj"
             }
           }
         }
