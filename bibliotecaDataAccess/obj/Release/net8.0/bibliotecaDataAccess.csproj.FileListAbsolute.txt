@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\bin\Release\net8.0\bibliotecaDataAccess.deps.json
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\bin\Release\net8.0\bibliotecaDataAccess.runtimeconfig.json
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\bin\Release\net8.0\bibliotecaDataAccess.dll
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\bin\Release\net8.0\bibliotecaDataAccess.pdb
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\bin\Release\net8.0\bibliotecaModels.dll
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\bin\Release\net8.0\bibliotecaModels.pdb
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliote.493C7433.Up2Date
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.dll
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\refint\bibliotecaDataAccess.dll
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.pdb
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\bibliotecaDataAccess.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\proyectonube\bibliotecaDataAccess\obj\Release\net8.0\ref\bibliotecaDataAccess.dll

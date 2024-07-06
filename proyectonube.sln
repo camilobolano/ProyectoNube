@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibliotecaAPI", "bibliotecaAPI\bibliotecaAPI.csproj", "{E84DD425-D63A-4A07-A6D9-35BDD1F647C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibliotecaDataAccess", "bibliotecaDataAccess\bibliotecaDataAccess.csproj", "{5B68C20C-37D8-4747-86AC-4D118BA50911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibliotecaModels", "bibliotecaModels\bibliotecaModels.csproj", "{4101D685-F721-49B9-9160-DC962C8072D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84DD425-D63A-4A07-A6D9-35BDD1F647C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84DD425-D63A-4A07-A6D9-35BDD1F647C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84DD425-D63A-4A07-A6D9-35BDD1F647C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84DD425-D63A-4A07-A6D9-35BDD1F647C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B68C20C-37D8-4747-86AC-4D118BA50911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B68C20C-37D8-4747-86AC-4D118BA50911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B68C20C-37D8-4747-86AC-4D118BA50911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B68C20C-37D8-4747-86AC-4D118BA50911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4101D685-F721-49B9-9160-DC962C8072D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4101D685-F721-49B9-9160-DC962C8072D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4101D685-F721-49B9-9160-DC962C8072D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4101D685-F721-49B9-9160-DC962C8072D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
